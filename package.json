@@ -1,0 +1,25 @@
+{
+  "name": "modernjs_nerdschool",
+  "version": "1.0.0",
+  "description": "Buinding a rest-based web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naresh22255/ModernJS_NerdSchool.git"
+  },
+  "keywords": [
+    "rest",
+    "http",
+    "web",
+    "fun"
+  ],
+  "author": "Eirik Årdal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naresh22255/ModernJS_NerdSchool/issues"
+  },
+  "homepage": "https://github.com/Naresh22255/ModernJS_NerdSchool#readme"
+}
